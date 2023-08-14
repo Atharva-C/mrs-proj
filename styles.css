@@ -36,4 +36,9 @@ body {
 .st-af {
     font-size: 20px;
 }
+.css-q8sbsg p {
+    word-break: break-word;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
 /* Add more styles for other Streamlit components */
