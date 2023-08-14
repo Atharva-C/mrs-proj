@@ -1,0 +1,39 @@
+/* styles.css */
+
+
+body {
+    font-size: 16px; /* Change this value to adjust the default font size */
+
+}
+
+/* Customize font size for specific Streamlit components */
+.stMarkdown p {
+    font-size: 23px; /* Adjust the font size for paragraphs */
+}
+
+.css-16idsys p {
+    word-break: break-word;
+    margin-bottom: 0px;
+    font-size: 22px;
+}
+
+.css-10trblm {
+    position: relative;
+    flex: 1 1 0%;
+    margin-left: calc(3rem);
+    font-size: 54px;
+}
+
+.css-uf99v8 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    overflow: auto;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.st-af {
+    font-size: 20px;
+}
+/* Add more styles for other Streamlit components */
